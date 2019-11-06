@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TwoferTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-10-08T17:37:46" hostname="DESKTOP-DBR0NP9" time="0.001">
-  <properties/>
-  <testcase name="noNameGiven" classname="TwoferTest" time="0.0"/>
-  <testcase name="aNameGiven" classname="TwoferTest" time="0.0"/>
-  <testcase name="anotherNameGiven" classname="TwoferTest" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
