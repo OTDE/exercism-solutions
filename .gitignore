@@ -1,7 +1,19 @@
+# Gradle
+
 *.gradle
 **/build/
 *.gradle-app.setting
 !gradle-wrapper.jar
 *.gradletasknamecache
-*.xml
 # gradle/wrapper/gradle-wrapper.properties
+
+# Dart
+**/.dart_tool
+*.packages
+*.lock
+
+# IntelliJ
+**/.idea
+
+# Exercism
+**/.exercism
